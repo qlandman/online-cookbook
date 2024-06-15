@@ -7,6 +7,7 @@ time: 50 minutes
 source: https://www.chefkoch.de/rezepte/2874061439669102/Veganer-Schokokuchen.html
 vegan: ✓
 
+## Ingredienten
 ---
 
 * `500 g` 00 bloem
@@ -15,10 +16,7 @@ vegan: ✓
 * `300 ml` water
 
 
-> Meng de ingredienten
->
-> Doe er iets mee
-
+## Bereiding
 ---
 
 * sunflower oil
