@@ -1,7 +1,8 @@
 ---
 title: Pizzadeeg
 category: Bakken
-description: Basisrecept pizzadeeg met gist.
+description: Basisrecept voor pizzadeeg met gist.
+image: pizza.jpg
 size: 4 pizza's
 time: 50 minutes
 vegan: ✓
