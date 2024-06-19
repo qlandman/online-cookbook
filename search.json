@@ -1,5 +1,7 @@
 [
-{"original_title":"깻잎전","title":"Pan-Fried Perilla Leaves","spicy":"✓","category":"Korean Food","source":"https://www.youtube.com/watch?v=v2L4u2H2Hw0","author":"하루한끼","description":"Perilla leaves, stuffed with a pork-based filling, then eggwashed and fried.","htmlfile":"kkaennipjeon.html","size":"1 serving","time":"1 hour"}
+{"title":"Bobotie","category":"Oven","image":"bobotie.jpg","description":"Zuid-Afrikaanse ovenschotel","htmlfile":"bobotie.html","size":"4 persons","time":"50 minutes"}
+,{"title":"Chicken Cacciatore","category":"Chicken","image":"images/Chicken_Cacciatore.jpg","description":"A rustic, slow-cooked dish of tender chicken and vegetables in a hearty sauce, chicken cacciatore.","htmlfile":"chicken_cacciatore.html","size":"6 persons","time":"50 minutes"}
+,{"original_title":"깻잎전","title":"Pan-Fried Perilla Leaves","spicy":"✓","category":"Korean Food","source":"https://www.youtube.com/watch?v=v2L4u2H2Hw0","author":"하루한끼","description":"Perilla leaves, stuffed with a pork-based filling, then eggwashed and fried.","htmlfile":"kkaennipjeon.html","size":"1 serving","time":"1 hour"}
 ,{"title":"Pizzadeeg","category":"Bakken","image":"pizza.jpg","description":"Basisrecept voor pizzadeeg met gist.","htmlfile":"pizza.html","vegan":"✓","size":"4 pizza’s","time":"50 minutes"}
 ,{"nutrition":["300 calories","60 g sugar","0.8 g fat","3.8 g protein"],"title":"Strawberry Smoothie","image":"strawberrysmoothie.jpg","veggie":"✓","description":"Great on a hot summer day.","htmlfile":"strawberrysmoothie.html","sweet":"✓","size":"2 servings","time":"5 minutes"}
 ]
